@@ -2,6 +2,7 @@ http://localhost:3333/auth/signin adresinden API ile kullanici bilgisi ve sifrey
 http://localhost:3000/auth/signout adresinde WebSocket ile baglanti kurar ve kullanicilara mesaj gonderir.
 
 [circleci-image]: https://ibb.co/6B7ckbd
+[circleci-url]: https://ibb.co/6B7ckbd
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
