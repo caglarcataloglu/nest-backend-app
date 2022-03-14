@@ -11,6 +11,11 @@ export class AppController {
     return this.appService.getHello();
   }
 
+  @Get('test')
+  getTest() : string  {
+    return this.appService.getWelcome();
+}
+
   @Get('auth')
   @UseGuards(AuthGuard('basic'))
   findOne() {
