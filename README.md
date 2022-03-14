@@ -2,9 +2,9 @@ http://localhost:3333/auth/signin adresinden API ile kullanici bilgisi ve sifrey
 http://localhost:3000/auth/signout adresinde WebSocket ile baglanti kurar ve kullanicilara mesaj gonderir.
 
 ![alt text](https://i.ibb.co/fvzVstc/2022-03-15-00-23-32-Window.png)
-<p><p>
+
 ![alt text](https://i.ibb.co/tzfSqb0/2022-03-15-00-27-48-Window.png)
- <p><p>
+
 ![alt text](https://i.ibb.co/7rN05tX/2022-03-15-00-28-04-Window.png)
 
 <p align="center">
