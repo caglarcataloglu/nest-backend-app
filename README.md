@@ -1,3 +1,6 @@
+http://localhost:3333/auth/signin adresinden API ile kullanici bilgisi ve sifreyi alarak dogrulama yapar ve json formatinda cevap doner.
+http://localhost:3000/auth/signout adresinde WebSocket ile baglanti kurar ve kullanicilara mesaj gonderir.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
